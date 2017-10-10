@@ -20,9 +20,6 @@
     "hubot-shipit": "^0.2.1",
     "hubot-slack": "^4.3.4"
   },
-  "engines": {
-    "node": "8.x.x"
-  },
   "scripts": {
     "start": "bin/hubot"
   }
