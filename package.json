@@ -21,7 +21,7 @@
     "hubot-slack": "^4.3.4"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "8.x.x"
   },
   "scripts": {
     "start": "bin/hubot"
